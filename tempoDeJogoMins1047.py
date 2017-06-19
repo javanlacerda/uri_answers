@@ -7,7 +7,6 @@ beginm = int(time[1])
 endh = int(time[2])
 endm = int(time[3])
 
-
 if endh > beginh:
 	horas = endh - beginh
 
