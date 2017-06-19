@@ -1,4 +1,5 @@
 # coding: utf-8
+# Javan Lacerda, UFCG
 
 time = raw_input().split()
 

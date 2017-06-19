@@ -1,4 +1,5 @@
 # coding: utf-8
+# Javan Lacerda, UFCG
 
 mapa = {61: "Brasilia",
 		71: "Salvador",

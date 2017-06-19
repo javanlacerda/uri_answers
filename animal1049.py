@@ -1,4 +1,5 @@
 # coding: utf-8
+# Javan Lacerda, UFCG
 
 vertebra = raw_input()
 tipo = raw_input()
